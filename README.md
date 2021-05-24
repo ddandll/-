@@ -25,7 +25,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ​		3.更改两个文件中的参数
 
-![image-20210520131731736](C:\Users\Hp\AppData\Roaming\Typora\typora-user-images\image-20210520131731736.png)
+![image-20210520131731736](https://github.com/ddandll/NP/blob/master/photo/image-20210520131731736.png)
 
 ​		4.点击运行，并根据提示下载环境，成功显示
 
