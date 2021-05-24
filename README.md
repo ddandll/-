@@ -98,7 +98,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ##### （3） 效果截图
 
-![image-20210520133806731](C:\Users\Hp\AppData\Roaming\Typora\typora-user-images\image-20210520133806731.png)
+![image](https://github.com/ddandll/NP/blob/master/photo/image-20210520133806731.png)
+
 
 
 
